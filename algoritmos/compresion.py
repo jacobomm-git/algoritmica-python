@@ -14,6 +14,8 @@ def rle(text):
     text: string
         text codificat
     """
+    if not text:
+        return ''
     t = ''
     lista = []
     for i in text:
