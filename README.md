@@ -1,6 +1,6 @@
-# Algorismes en Python
+# Algorísmica amb Python · Ordenació i tractament de seqüències
 
-Selecció de tres pràctiques d'algorísmica: compressió de text, cerca d'una subcadena sense caràcters repetits i ordenació. Inclou les implementacions extretes dels quaderns i comprovacions executables amb la biblioteca estàndard.
+Selecció de pràctiques centrades en el raonament algorísmic: descomposició de problemes, recursivitat, divisió i fusió de llistes, partició i recorregut de seqüències. Els exercicis apliquen aquestes tècniques a l'ordenació, la compressió i la cerca de subcadenes, amb implementacions en Python i comprovacions de resultats.
 
 | Exercici | Mòdul | Quadern | Què treballa |
 | --- | --- | --- | --- |
